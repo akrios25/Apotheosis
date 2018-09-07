@@ -1,3 +1,61 @@
 <resources>
+    <!--Button String options  Scene 1  -->
+    <string name="north_option">North</string>
+    <string name="south_option">South</string>
+    <string name="east_option">East</string>
+    <string name="west_option">West</string>
+
+    <!-- Button String Options scene 2-->
+    <string name="no_option_s2">No</string>
+    <string name="yes_option_s2">Yes</string>
+
+    <!--Button String Options scene 3-->
+    <string name="read_option_s3">Read it</string>
+    <string name="dont_read_option_s3">Don\'t read it</string>
+
+    <!--Button String Options scene 4-->
+    <string name="who_option_s4">Who are you?</string>
+    <string name="where_option_s4">Where am I?</string>
+    <string name="no_option_s4">No.</string>
+
+    <!--Button String Options scene 5-->
+    <string name="lookup_option_s5">Look Up</string>
+    <string name="sitdown_option_s5">Sit Down</string>
+    <string name="jump_option_s5">Jump</string>
+
+    <!--Button String Options scene 6-->
+    <string name="open_option_s6">Open</string>
+    <string name="ignore_option_s6">Ignore</string>
+
+    <!--Button String Options scene 7-->
+    <string name="yes_option_s7">Yes</string>
+    <string name="no_option_s7">No</string>
+
+    <!--Textview String scene 1-->
+    <string name="scene_one_pt1">The salt breeze brushes you gently, you hear the call of sea birds,
+        you get up and assess your surroundings...</string>
+
+    <!--TextView String scene 2-->
+    <string name="scene_two_pt1">You look ahead. There is a small opening; Approach?</string>
+
+    <!--Textview string scene 3-->
+    <string name="scene_three_pt1">The scent of salt, sea and sun gently waft up to you, as if beckoning
+                    you every step forward.\n\nAs you approach the opening,
+                    the light ahead begins to grow.
+                    The cacophony of sound drowns your senses,
+                    light envelops you and you’re now
+                    standing in a vast library. It feels ancient.
+                    You’re met by empty shelves, save for one tome. Will you read it?</string>
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+
+
     <string name="app_name">Apotheosis</string>
 </resources>
